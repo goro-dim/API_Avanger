@@ -1,8 +1,11 @@
 
-
 # API Avenger
 
 Welcome to **API Avenger** â€“ your first line of defense and offense in the epic battle for secure APIs! This project is a work in progress aimed at building a powerful AI-powered tool to test, defend, and optimize the security of your APIs.
+
+<p align="center">
+  <img src="assets/API_the_Avenger.png" alt="API Avenger Cover" width="500"/>
+</p>
 
 ## Project Overview
 
@@ -75,4 +78,5 @@ Got ideas or improvements? Open an issue or submit a pull request. Whether youâ€
 **API Avenger** is a tool intended for educational and research purposes only. Always use it in controlled environments where you have authorization to test security.
 
 ---
+
 
